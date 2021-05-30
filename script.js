@@ -1,0 +1,1 @@
+window.helloGit = 'Git is cnow used in Js'
